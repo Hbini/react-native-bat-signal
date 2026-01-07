@@ -1,0 +1,29 @@
+{
+  "name": "react-native-bat-signal",
+  "version": "1.0.0",
+  "description": "App de Bat Sinal desenvolvido com React Native - Interface mobile do aplicativo de Bat-Sinal que permite acionar e visualizar o famoso sinal do Batman de forma interativa e responsiva.",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^46.0.0",
+    "react": "18.0.0",
+    "react-native": "0.69.5",
+    "react-native-safe-area-context": "^4.3.1",
+    "react-native-screens": "^3.13.0",
+    "react-navigation": "^6.0.12",
+    "react-navigation-native": "^6.0.10",
+    "react-navigation-stack": "^6.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.69.0",
+    "typescript": "^4.7.0"
+  },
+  "private": true
+}
